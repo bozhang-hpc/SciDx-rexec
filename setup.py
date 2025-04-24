@@ -14,7 +14,7 @@ setup(name='SciDx-rexec',
       long_description_content_type="text/x-rst",
       author='Bo Zhang',
       author_email='bozhang@sci.utah.edu',
-      url='https://github.com/sci-ndp/dxspaces',
+      url='https://github.com/bozhang-hpc/SciDx-rexec',
       install_requires=requirements,
       packages=['rexec'],
      )
